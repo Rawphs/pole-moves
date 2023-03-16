@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Pirouette",
+    "level": "beginner",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Basic pole Step",
+    "level": "beginner",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Step & hook",
+    "level": "beginner",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Bridge",
+    "level": "beginner",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Back slide",
+    "level": "beginner",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Sexy stand up",
+    "level": "beginner",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Fireman spin",
+    "level": "beginner",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Knee hook spin",
+    "level": "beginner",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Back hook spin",
+    "level": "beginner",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Knee hook spin supported",
+    "level": "beginner",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Attitude spin",
+    "level": "beginner",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Fireman spin chair",
+    "level": "beginner",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Chair spin",
+    "level": "beginner",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Cradle spin",
+    "level": "beginner",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Back hook spin passé",
+    "level": "beginner",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Basic pole sit",
+    "level": "beginner",
+    "media": [],
+    "type": "seat",
+    "aliases": []
+  },
+  {
+    "name": "Pole sit lady",
+    "level": "beginner",
+    "media": [],
+    "type": "seat",
+    "aliases": []
+  },
+  {
+    "name": "Seated straddle",
+    "level": "beginner",
+    "media": [],
+    "type": "seat",
+    "aliases": []
+  },
+  {
+    "name": "Jump & slide",
+    "level": "beginner",
+    "media": [],
+    "type": "jump",
+    "aliases": []
+  },
+  {
+    "name": "Side kick taps",
+    "level": "beginner",
+    "media": [],
+    "type": "jump",
+    "aliases": []
+  },
+  {
+    "name": "Fan kick",
+    "level": "beginner",
+    "media": [],
+    "type": "jump",
+    "aliases": []
+  },
+  {
+    "name": "Basic invert",
+    "level": "beginner",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Inverted straddle",
+    "level": "beginner",
+    "media": [],
+    "type": "invert",
+    "aliases": [
+      "Helicopter",
+      "Chopper"
+    ]
+  },
+  {
+    "name": "Handstand front attitude",
+    "level": "beginner",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Side pole straddle base",
+    "level": "beginner",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Thigh hold stand",
+    "level": "beginner",
+    "media": [],
+    "type": "seat",
+    "aliases": []
+  },
+  {
+    "name": "Basic climb",
+    "level": "beginner",
+    "media": [],
+    "type": "climb",
+    "aliases": []
+  },
+  {
+    "name": "Cobra",
+    "level": "basic",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Cleopatra",
+    "level": "basic",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Sumo squat",
+    "level": "basic",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Side hook ballerina",
+    "level": "basic",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Side slide",
+    "level": "basic",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Lean back",
+    "level": "basic",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Back spin attitude",
+    "level": "basic",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Knee hook spin double knees",
+    "level": "basic",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Swan spin attitude ",
+    "level": "basic",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Back spin passé",
+    "level": "basic",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Knee hook spin supported leg switch",
+    "level": "basic",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Body spiral passé",
+    "level": "basic",
+    "media": [],
+    "type": "spin",
+    "aliases": [
+      "Corkscrew"
+    ]
+  },
+  {
+    "name": "Pencil spin passé",
+    "level": "basic",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Cradle spin one leg up ",
+    "level": "basic",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Cradle spin straddle",
+    "level": "basic",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Side pole straddle",
+    "level": "basic",
+    "media": [],
+    "type": "climb",
+    "aliases": []
+  },
+  {
+    "name": "Cupid supported",
+    "level": "basic",
+    "media": [],
+    "type": "climb",
+    "aliases": [
+      "Star"
+    ]
+  },
+  {
+    "name": "Pole straddle split grip",
+    "level": "basic",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Flag back passé",
+    "level": "basic",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Seated pike",
+    "level": "basic",
+    "media": [],
+    "type": "seat",
+    "aliases": []
+  },
+  {
+    "name": "Handstand front straddle",
+    "level": "basic",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Jasmine",
+    "level": "basic",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Outside leg hang",
+    "level": "basic",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Butterfly",
+    "level": "basic",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Layback cross knee",
+    "level": "basic",
+    "media": [],
+    "type": "invert",
+    "aliases": [
+      "Hangover"
+    ]
+  },
+  {
+    "name": "Easy come out layback",
+    "level": "basic",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Elbow stand pencil",
+    "level": "basic",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Elbow stand attitude",
+    "level": "basic",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Standing Ballerina",
+    "level": "intermediate",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Drama hook",
+    "level": "intermediate",
+    "media": [],
+    "type": "step",
+    "aliases": []
+  },
+  {
+    "name": "Carousel spin side one hand",
+    "level": "intermediate",
+    "media": [],
+    "type": "spin",
+    "aliases": [
+      "One hand carousel"
+    ]
+  },
+  {
+    "name": "Chair spin pike",
+    "level": "intermediate",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Swan spin pencil",
+    "level": "intermediate",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Straddle spin",
+    "level": "intermediate",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Craddle spin tuck",
+    "level": "intermediate",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Reverse spin",
+    "level": "intermediate",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Carousel spin attitude",
+    "level": "intermediate",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Back spin passé pull up",
+    "level": "intermediate",
+    "media": [],
+    "type": "spin",
+    "aliases": []
+  },
+  {
+    "name": "Spinning helicopter",
+    "level": "intermediate",
+    "media": [],
+    "type": "spin",
+    "aliases": [
+      "Spinning chopper"
+    ]
+  },
+  {
+    "name": "Side pole straddle pull up",
+    "level": "intermediate",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Armpit hold split",
+    "level": "intermediate",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Superman down",
+    "level": "intermediate",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Stand on pole",
+    "level": "intermediate",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Side pole straddle upper hand",
+    "level": "intermediate",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Side pole straddle lower hand",
+    "level": "intermediate",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Thigh hold diva",
+    "level": "intermediate",
+    "media": [],
+    "type": "pose",
+    "aliases": []
+  },
+  {
+    "name": "Handstand front passé",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Handstand front tuck",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Butterfly base",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Inside leg hang flatliner",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": ["Flatine"]
+  },
+  {
+    "name": "Inside leg hang scorpio",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": ["Scorpio"]
+  },
+  {
+    "name": "Thigh hold passé",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": ["Fang"]
+  },
+  {
+    "name": "Thigh hold lock",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Thigh hold push up",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Handstand back straddle",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Handstand back passé",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Handspring pencil",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Handspring passé",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  },
+  {
+    "name": "Handspring triangle",
+    "level": "intermediate",
+    "media": [],
+    "type": "invert",
+    "aliases": []
+  }
+]
